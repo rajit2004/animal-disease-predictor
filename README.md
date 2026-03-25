@@ -5,6 +5,9 @@ An intelligent machine learning-based web application that predicts probable ani
 Built using **Python, Scikit-learn, and Streamlit**, this system serves as a diagnostic support tool for early-stage disease identification.
 
 ---
+## 🌍 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen)](https://animal-disease-predictor.streamlit.app/)
 
 ## 🚀 Features
 
