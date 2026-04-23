@@ -20,17 +20,16 @@
 
 ## 📸 Screenshots
 
-**Main Interface**
-<img src="screenshots/Screenshot%202026-04-23%20111257.png" width="700"/>
-
-**Prediction Result**
-<img src="screenshots/Screenshot%20(25).png" width="700"/>
-
-**Results & Case History**
-<img src="screenshots/Screenshot%20(26).png" width="700"/>
-
-**PDF Report**
-<img src="screenshots/Screenshot%202026-04-23%20113302.png" width="700"/>
+<table>
+  <tr>
+    <td><strong>Main Interface</strong><br/><img src="screenshots/Screenshot%202026-04-23%20111257.png" width="350"/></td>
+    <td><strong>Prediction Result</strong><br/><img src="screenshots/Screenshot%20(25).png" width="350"/></td>
+  </tr>
+  <tr>
+    <td><strong>Results & Case History</strong><br/><img src="screenshots/Screenshot%20(26).png" width="350"/></td>
+    <td><strong>PDF Report</strong><br/><img src="screenshots/Screenshot%202026-04-23%20113302.png" width="350"/></td>
+  </tr>
+</table>
 
 ---
 
