@@ -231,7 +231,10 @@ if st.session_state.prediction is not None:
     for key, value in st.session_state.symptoms.items():
         pdf.cell(200, 10, txt=f"{key}: {value}", ln=True)
 
-    pdf_output = bytes(pdf.output(dest="S"))
+    pdf_output = pdf.output(dest="S")
+
+    if isinstance(pdf_output, str):
+        pdf_output = pdf_output.encode("latin-1")
 
     st.download_button(
         label="Download PDF Report",
