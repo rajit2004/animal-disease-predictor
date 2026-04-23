@@ -21,16 +21,17 @@
 ## 📸 Screenshots
 
 **Main Interface**
-![Main UI](screenshots/Screenshot%202026-04-23%20111257.png)
+<img src="screenshots/Screenshot%202026-04-23%20111257.png" width="700"/>
 
 **Prediction Result**
-![Prediction](screenshots/Screenshot%20(25).png)
+<img src="screenshots/Screenshot%20(25).png" width="700"/>
 
 **Results & Case History**
-![Results](screenshots/Screenshot%20(26).png)
+<img src="screenshots/Screenshot%20(26).png" width="700"/>
 
 **PDF Report**
-![PDF Report](screenshots/Screenshot%202026-04-23%20113302.png)
+<img src="screenshots/Screenshot%202026-04-23%20113302.png" width="700"/>
+
 ---
 
 ## 🚀 Features
