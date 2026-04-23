@@ -20,7 +20,17 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots here — go to your live app, take a screenshot of the main UI and the PDF report, and upload them to this repo)*
+**Main Interface**
+![Main UI](screenshots/Screenshot_2026-04-23_111257.png)
+
+**Prediction Result**
+![Prediction](screenshots/Screenshot__25_.png)
+
+**Results & Case History**
+![Results](screenshots/Screenshot__26_.png)
+
+**PDF Report**
+![PDF Report](screenshots/Screenshot_2026-04-23_113302.png)
 
 ---
 
